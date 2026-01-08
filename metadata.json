@@ -1,0 +1,8 @@
+{
+  "name": "NexGen Gaming - Free Fire Tournament App",
+  "description": "The ultimate destination for Free Fire tournaments. Download the app, compete with the best, and win big.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
